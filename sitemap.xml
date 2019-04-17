@@ -3,12 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nhutrg1998.github.io/posts/small-talk/</loc>
+    <loc>https://nhutrg1998.github.io/tags/communication/</loc>
     <lastmod>2019-04-11T15:13:19+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nhutrg1998.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -25,7 +21,30 @@
   </url>
   
   <url>
+    <loc>https://nhutrg1998.github.io/tags/soft-skills/</loc>
+    <lastmod>2019-04-11T15:13:19+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nhutrg1998.github.io/tags/</loc>
+    <lastmod>2019-04-11T15:13:19+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nhutrg1998.github.io/posts/small-talk/</loc>
+    <lastmod>2019-04-11T15:13:19+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nhutrg1998.github.io/tags/verbal-thinking/</loc>
+    <lastmod>2019-04-11T15:13:19+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nhutrg1998.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
