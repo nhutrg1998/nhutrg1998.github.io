@@ -15,7 +15,7 @@
   </url>
   
   <url>
-    <loc>https://nhutrg1998.github.io/posts/</loc>
+    <loc>https://nhutrg1998.github.io/post/</loc>
     <lastmod>2019-04-11T15:13:19+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -33,7 +33,7 @@
   </url>
   
   <url>
-    <loc>https://nhutrg1998.github.io/posts/small-talk/</loc>
+    <loc>https://nhutrg1998.github.io/post/small-talk/</loc>
     <lastmod>2019-04-11T15:13:19+07:00</lastmod>
   </url>
   
@@ -44,7 +44,16 @@
   </url>
   
   <url>
+    <loc>https://nhutrg1998.github.io/page/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://nhutrg1998.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nhutrg1998.github.io/page/</loc>
     <priority>0</priority>
   </url>
   

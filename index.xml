@@ -14,11 +14,22 @@
     
     <item>
       <title>The Fine Art of SMALL TALK</title>
-      <link>https://nhutrg1998.github.io/posts/small-talk/</link>
+      <link>https://nhutrg1998.github.io/post/small-talk/</link>
       <pubDate>Thu, 11 Apr 2019 15:13:19 +0700</pubDate>
       <author>nhutrg1998@gmail.com (Lê Nhựt)</author>
-      <guid>https://nhutrg1998.github.io/posts/small-talk/</guid>
+      <guid>https://nhutrg1998.github.io/post/small-talk/</guid>
       <description>Giới thiệu sách Cuốn sách này chia sẻ về những kỹ năng, kinh nghiệm được hình thành và đúc kết qua quá trình trải nghiệm của tác giả về một số vấn đề trong giao tiếp mà cụ thể hơn là về các vấn đề xung quanh small talk. Small talk là những cuộc trò chuyện giữa những người chưa hề quen biết trước, giữa những người tình cờ gặp nhau trong một buổi hội thảo hay một bữa tiệc.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://nhutrg1998.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nhutrg1998@gmail.com (Lê Nhựt)</author>
+      <guid>https://nhutrg1998.github.io/page/about/</guid>
+      <description>My name is Inigo Montoya. I have the following qualities:
+ I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
+my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
     </item>
     
   </channel>
